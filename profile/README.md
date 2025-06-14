@@ -7,7 +7,7 @@
 ## 팀 연락처
 - 팀명: 마피레
 - 이메일: mapilaetm@gmail.com
-- 유튜브: [유튜브]([https://www.acorn.co.kr](https://www.youtube.com/@mapilae))
+- 유튜브: [유튜브](https://www.youtube.com/@mapilae)
 ## 팀원
 
 ### 0. 진소은
