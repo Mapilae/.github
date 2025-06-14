@@ -1,4 +1,4 @@
-<img src="[https://url/image.png](https://github.com/user-attachments/assets/6d38e29d-72b4-4582-a2df-d7d94dfeee5f)" width="50" height="50"/>
+<img src="[https://url/image.png](https://github.com/user-attachments/assets/6d38e29d-72b4-4582-a2df-d7d94dfeee5f)" width="500" height="50"/>
 # 마피레(Mapilae) 소개
 
 마피레는 혁신적인 게임 개발을 목표로 하는 팀입니다.  
