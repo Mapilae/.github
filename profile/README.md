@@ -1,15 +1,29 @@
 # 마피레(Mapilae) 소개
 
-마피레는 혁신적인 게임 개발을 목표로 하는 회사입니다.  
+마피레는 혁신적인 게임 개발을 목표로 하는 팀입니다.  
 우리는 창의적이고 즐거운 경험을 제공하기 위해 노력합니다.
 # 연락처 정보
 
-## 개인 연락처
+## 팀 연락처
+- 팀명: 마피레
+- 이메일: mapilaetm@gmail.com
+- 유튜브: [유튜브]([https://www.acorn.co.kr](https://www.youtube.com/@mapilae))
+## 팀원
 
+### 0. 진소은
 - 이름: 진소은
 - 이메일: your5marimo@gmail.com
 - 전화번호: 010-5913-8288
 - Github: [Github 프로필](https://github.com/editor0518)
+### 1. 진다은
+- 이름: 진다은
+- 이메일: your4marimo@gmail.com
+- 전화번호: 010-6251-8828
+### 2. 오지철
+- 이름: 오지철
+- 이메일: ojc123004@gmail.com
+- 전화번호: 010-4760-8741
+- Github: [Github 프로필](https://github.com/ojc1234)
 
 ## 대표 게임: 컴터니(Comterny)
 
